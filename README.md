@@ -64,7 +64,7 @@ You can now access [`localhost:6006`](http://localhost:6006) from your browser.
 
 Access <https://igorssc.github.io/design-system>
 
-## 📝 Licence
+## 📝 License
 
 This project is under MIT licence. See the archive [LICENSE](LICENSE.md) to more details.
 
